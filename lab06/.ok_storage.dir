@@ -1,0 +1,4 @@
+'Player.talk_to-correct', (0, 70)
+'Player.take-correct', (512, 70)
+'Player.unlock-correct', (1024, 70)
+'vending_machine-correct', (1536, 70)

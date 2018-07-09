@@ -1,0 +1,6 @@
+'interval-correct', (0, 70)
+'mul_interval-correct', (512, 70)
+'sub_interval-correct', (1024, 70)
+'div_interval-correct', (1536, 70)
+'check_par-correct', (2048, 70)
+'quadratic-correct', (2560, 70)

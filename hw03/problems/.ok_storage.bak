@@ -1,0 +1,5 @@
+'accumulate-correct', (0, 70)
+'summation_using_accumulate-correct', (512, 70)
+'product_using_accumulate-correct', (1024, 70)
+'filtered_accumulate-correct', (1536, 70)
+'repeated-correct', (2048, 70)

@@ -1,0 +1,5 @@
+'nodots-correct', (0, 70)
+'contains?-correct', (512, 70)
+'add-correct', (1024, 70)
+'intersect-correct', (1536, 70)
+'union-correct', (2048, 70)

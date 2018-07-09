@@ -1,0 +1,4 @@
+'balanced-correct', (0, 70)
+'with_totals-correct', (512, 70)
+'make_withdraw-correct', (1024, 70)
+'make_joint-correct', (1536, 70)
