@@ -1,5 +1,5 @@
 # CS61A
-This repository contains all my answers to the homework,labs and projects of the CS61A The Structure and Interpretation of Computer Programs course.
+This repository contains all my answers to the homework, labs and projects of the CS61A The Structure and Interpretation of Computer Programs course.
 
 This course is from the Department of Electrical Engineering and Computer Sciences, the Unversity of California, Berkeley.
 
